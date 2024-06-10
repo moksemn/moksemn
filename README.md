@@ -42,7 +42,6 @@ experienced specialist in this field and grow professionall
    <img title="TeamCity" src="https://img.shields.io/badge/-TeamCity-7573D9?style=for-the-badge">
    <img title="GitHub" src="https://img.shields.io/badge/-GitHub-7573D9?style=for-the-badge&logo=github">
    <img title="GitLab" src="https://img.shields.io/badge/-GitLab-7573D9?style=for-the-badge&logo=gitlab">
-   <img title="GitLab" src="https://img.shields.io/badge/-GitLab-7573D9?style=for-the-badge&logo=gitlab">
    <img title="Log4j" src="https://img.shields.io/badge/-Log4j-7573D9?style=for-the-badge">
    <img title="MySQL" src="https://img.shields.io/badge/-MySQL-7573D9?style=for-the-badge&logo=mysql">
    <img title="Postman" src="https://img.shields.io/badge/-Postman-7573D9?style=for-the-badge&logo=postman">
