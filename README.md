@@ -1,15 +1,6 @@
-
-
-# <img width="5%" title="About me" src="attachments/images/chat.gif"> About me
-
-<img align="right" width="35%" src="attachments/gif/animation.gif">
-
-### _QA Automation Engineer_ <img width="3%" src="attachments/images/bug.png">
-
-<p align="left">
-#### <img width="2%" title="Gmail" src="attachments/logo/gmail.png"> Gmail : moksemnovikov@gmail.com
-#### <img width="2%" title="Telegram" src="attachments/logo/telegram.png"> Telegram: <a href="https://t.me/moksemn"> @moksemn</a>
-#### <img width="2%" title="LinkedIn" src="attachments/logo/linked.png"> LinkedIn: <a href="https://www.linkedin.com/in/maksim-novikov/"> maksim_novikov</a>
+<img width="2%" title="Gmail" src="attachments/logo/gmail.png"> Gmail : moksemnovikov@gmail.com
+<img width="2%" title="Telegram" src="attachments/logo/telegram.png"> Telegram: <a href="https://t.me/moksemn"> @moksemn</a>
+<img width="2%" title="LinkedIn" src="attachments/logo/linked.png"> LinkedIn: <a href="https://www.linkedin.com/in/maksim-novikov/"> maksim_novikov</a>
 </p>
 <br/>
 
