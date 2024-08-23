@@ -7,10 +7,6 @@
 ### _QA Automation Engineer_ <img width="3%" src="attachments/images/bug.png">
 
 <p align="left">
-Hello everyone! 
-  
-I have experience in test automation and  knowledge in software testing. My goal is to become an
-experienced specialist in this field and grow professionall
 #### <img width="2%" title="Gmail" src="attachments/logo/gmail.png"> Gmail : moksemnovikov@gmail.com
 #### <img width="2%" title="Telegram" src="attachments/logo/telegram.png"> Telegram: <a href="https://t.me/moksemn"> @moksemn</a>
 #### <img width="2%" title="LinkedIn" src="attachments/logo/linked.png"> LinkedIn: <a href="https://www.linkedin.com/in/maksim-novikov/"> maksim_novikov</a>
