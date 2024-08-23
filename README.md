@@ -1,13 +1,6 @@
-<img width="2%" title="Gmail" src="attachments/logo/gmail.png"> Gmail : moksemnovikov@gmail.com
-<img width="2%" title="Telegram" src="attachments/logo/telegram.png"> Telegram: <a href="https://t.me/moksemn"> @moksemn</a>
-<img width="2%" title="LinkedIn" src="attachments/logo/linked.png"> LinkedIn: <a href="https://www.linkedin.com/in/maksim-novikov/"> maksim_novikov</a>
-</p>
-<br/>
-
-## <img width="4%" title="My projects" src="attachments/images/project.png"> My projects
-
-<p align="center">
-      <a href="https://github.com/moksemn/taf-zarina-2024-itacademy"><img width=45% title="This is the final project of the course "JAVA TEST AUTOMATION (powered by EPAM)" " src="https://github-readme-stats.vercel.app/api/pin/?username=moksemn&repo=taf-zarina-2024-itacademy&show_owner=true&theme=buefy)](https://github.com/moksemn/taf-zarina-2024-itacademy"></a>
+## <img width="2%" title="Gmail" src="attachments/logo/gmail.png"> Gmail : moksemnovikov@gmail.com
+## <img width="2%" title="Telegram" src="attachments/logo/telegram.png"> Telegram: <a href="https://t.me/moksemn"> @moksemn</a>
+## <img width="2%" title="LinkedIn" src="attachments/logo/linked.png"> LinkedIn: <a href="https://www.linkedin.com/in/maksim-novikov/"> maksim_novikov</a>
 </p>
 <br/>
 
